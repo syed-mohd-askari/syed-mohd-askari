@@ -16,7 +16,7 @@
 
  💬 Ask me about **Python,Data-Science, Web-Development, Google-Cloud... or anything [here](https://github.com/syed-mohd-askari/syed-mohd-askari/issues)**
 
- ⚡ **Fun fact :** _While working upon a chatbot app, I've discovered that chatbots have been around since the 1960s! ELIZA, an early pioneer, laid the groundwork for the conversational AI we explore today. Excited to add my touch to this rich history of human-computer interaction!_
+ ⚡ **Fun fact :** _Programmers don't die, they just go offline._
  
 
  </div>
