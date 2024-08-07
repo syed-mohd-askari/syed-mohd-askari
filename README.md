@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chatbot app**
  
- 🌱 I’m currently learning **Machine Learning, NLP , Front-end-Development**
+ 🌱 I’m currently learning **MERN STACK**
 
  💬 Ask me about **Python,Data-Science, Web-Development, Google-Cloud... or anything [here](https://github.com/syed-mohd-askari/syed-mohd-askari/issues)**
 
