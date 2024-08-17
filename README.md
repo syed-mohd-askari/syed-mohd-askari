@@ -10,7 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chatbot app**
  
  🌱 I’m currently learning **MERN STACK**
 
